@@ -1,0 +1,2 @@
+<?php
+$connectingDB=new PDO('mysql:host=localhoast;dbname=record','root','');
